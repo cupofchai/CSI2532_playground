@@ -45,7 +45,8 @@ VALUES
 INSERT INTO likeartists
 (customer_id, artist_name)
 VALUES
-(1, 'Caravaggio');
+(1, 'Caravaggio'),
+(2, 'Picasso');
 
 INSERT INTO artworks
 (title, year, type, price, artist_name)
